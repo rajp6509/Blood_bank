@@ -1,2 +1,32 @@
 # Blood_bank
-This project is designed to address the common challenges faced in blood banks and hospitals, where quick access to accurate donor and stock information can save lives. By providing a digital solution, it reduces dependency on manual processes, speeds up donor-recipient matching, and ensures efficient blood management in emergency cases.
+🩸 Blood Bank Management System
+
+The Blood Bank Management System is a web-based project designed to streamline blood donation and request processes. It helps donors, recipients, and administrators connect efficiently by maintaining real-time records of available blood groups.
+
+🚀 Features
+
+🔐 User Authentication – Login/Register for donors, recipients, and admins
+
+🩸 Donor Management – Register new donors with details like blood group, contact info, and availability
+
+📋 Recipient Requests – Users can request specific blood groups when needed
+
+📊 Inventory Management – Real-time tracking of blood stock availability
+
+🖥️ Admin Dashboard – Manage users, requests, and blood stock
+
+📱 Responsive UI – User-friendly interface with Bootstrap/HTML/CSS
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, Bootstrap, JavaScript
+
+Backend: Java (JSP/Servlets)
+
+Database: MySQL
+
+Server: Apache Tomcat
+
+🎯 Purpose
+
+This project provides a centralized platform for blood donation management, making it easier to find donors, request blood, and maintain hospital inventories.
