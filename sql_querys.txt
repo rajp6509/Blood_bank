@@ -1,0 +1,18 @@
+1> database >> create database blood_bank;
+
+
+ 2>   CREATE TABLE blood_donors (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    full_name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    blood_group VARCHAR(5) NOT NULL
+);
+ 
+3> ALTER TABLE blood_donors ADD COLUMN city VARCHAR(100);
+
+4> for the admin table >>
+CREATE TABLE admin_users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) UNIQUE NOT NULL,
+    password VARCHAR(255) NOT NULL
+);
