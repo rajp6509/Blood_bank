@@ -5,11 +5,11 @@ The Blood Bank Management System is a web-based project designed to streamline b
 
 🚀 Features
 
-🔐 User Authentication – Login/Register for donors, recipients, and admins
+🔐 User Authentication – Login/Register for , and admins
 
 🩸 Donor Management – Register new donors with details like blood group, contact info, and availability
 
-📋 Recipient Requests – Users can request specific blood groups when needed
+📋 Recipient Requests – Users can follow up specific blood groups when needed
 
 📊 Inventory Management – Real-time tracking of blood stock availability
 
